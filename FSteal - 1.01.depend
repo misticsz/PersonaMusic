@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1395981091 source:c:\users\gabrielaguiar\skydrive\documentos\fsteal - 1.01\main.cpp
+	<iostream>
+	<allegro.h>
+
+1396040100 source:c:\users\gabrielaguiar\skydrive\documentos\fsteal\main.cpp
+	<iostream>
+	<allegro.h>
+
+1396215120 source:c:\users\gabrielaguiar\desktop\fsteal\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+
+1396215120 source:c:\users\gabrielaguiar\skydrive\fsteal\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+
